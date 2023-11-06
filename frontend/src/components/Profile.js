@@ -13,7 +13,7 @@ const Profile = () => {
         />
         <Text>Emmanuel Mayowa</Text>
         <Text fontSize="lg" color="gray.400">
-          Software Engineer
+          DevOps Engineer
         </Text>
       </VStack>
 
